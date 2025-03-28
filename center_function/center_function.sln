@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "center_function", "center_function\center_function.pyproj", "{8EBCEC91-FCB7-4C02-AFC8-1E31C7E73AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EBCEC91-FCB7-4C02-AFC8-1E31C7E73AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBCEC91-FCB7-4C02-AFC8-1E31C7E73AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44EEC7F0-1EB7-472C-968D-E8D452B6393C}
+	EndGlobalSection
+EndGlobal
