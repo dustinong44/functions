@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dustin\\Music\\functions\\swap_case\\",
+  "WorkspaceRootPath": "C:\\Users\\dustin\\Music\\functions\\issuper_function\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D433631-5D59-41F3-AF37-9D3BC632EEC7}|swap_case\\swap_case.pyproj|C:\\Users\\dustin\\Music\\functions\\swap_case\\swap_case\\swap_case.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{0D433631-5D59-41F3-AF37-9D3BC632EEC7}|swap_case\\swap_case.pyproj|C:\\Users\\dustin\\Music\\functions\\issuper_function\\swap_case\\swap_case.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{0D433631-5D59-41F3-AF37-9D3BC632EEC7}|swap_case\\swap_case.pyproj|solutionrelative:swap_case\\swap_case.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "swap_case.py",
-              "DocumentMoniker": "C:\\Users\\dustin\\Music\\functions\\swap_case\\swap_case\\swap_case.py",
+              "DocumentMoniker": "C:\\Users\\dustin\\Music\\functions\\issuper_function\\swap_case\\swap_case.py",
               "RelativeDocumentMoniker": "swap_case\\swap_case.py",
-              "ToolTip": "C:\\Users\\dustin\\Music\\functions\\swap_case\\swap_case\\swap_case.py",
+              "ToolTip": "C:\\Users\\dustin\\Music\\functions\\issuper_function\\swap_case\\swap_case.py",
               "RelativeToolTip": "swap_case\\swap_case.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-03-28T14:38:13.128Z",
               "EditorCaption": ""
