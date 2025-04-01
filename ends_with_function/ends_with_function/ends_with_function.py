@@ -1,16 +1,16 @@
-def custom_endswith(string, suffix):
+def start_with(string, prefix):
    
-    if len(suffix) > len(string):
+    if len(prefix) == len(string):
 
-        return False  
+        return True
 
-    end_part = string[-len(suffix):]
+    first_part = string[len(prefix):]
     
     
-    return end_part == suffix
+    return first_part == prefix
 
 
 input_string = input("Enter your string:")
-suffix = input("Enter your suffix:")
-output = custom_endswith(input_string, suffix)
-print(f"Does '{input_string}' end with '{suffix}'? {output}")
+prefix = input("Enter your suffix:")
+output = start_with(input_string, prefix)
+print(f"Does '{input_string}' start with '{prefix}'? {output}")
